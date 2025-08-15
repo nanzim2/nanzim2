@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-🎯 Atualmente estudando **Ciência da Computação**  
+🎯 Atualmente cursando **Ciência da Computação**  
 🌐 Sonho grande: **trabalhar como desenvolvedor no exterior**  
 🎮 Interesses: tecnologia, hardware, violão, games e criptomoedas  
 📈 Apaixonado por transformar conhecimento em projetos reais  
@@ -33,13 +33,12 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=quiz-tabuada-js&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/quiz-tabuada-js.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=LandingPage_pizzaria_Donnapizza&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=Python-basico-interativo&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/Python-basico-interativo)
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Atualmente Focado
 
-- 💻 Desenvolvimento Web com **HTML**, **CSS**, **JavaScript** e **React**
+- 💻 Desenvolvimento Web com **HTML**, **CSS**, **JavaScript**, **React**
 - 🐍 Lógica e automação com **Python**
 - 🧪 Banco de Dados, Git, GitHub e **MySQL**
 - ☕ Backend com **Java**
