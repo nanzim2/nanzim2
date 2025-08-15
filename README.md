@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0d47a1,100:1976d2"/>
 
 <h1 align="center">☕ Yo! eu sou o Renan</h1>
-<h3 align="center">💻 Estudante de Ciência da Computação | Futuro Dev Global</h3>
+<h3 align="center">💻 Graduando de Ciência da Computação | Futuro Dev Global</h3>
 
 <p align="center">
   <strong>"Os planos bem elaborados levam à fartura; mas o apressado sempre acaba na miséria."</strong> – Provérbios 21:5 ✨
