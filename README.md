@@ -31,15 +31,13 @@
 
 ## 💼 Portfólio em construção
 
-<p align="center">
-  <a href="https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=LandingPage_pizzaria_Donnapizza&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff" />
-  </a>
+<a href="https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=nanzim2&repo=LandingPage_pizzaria_Donnapizza&theme=tokyonight" />
+</a>
 
-  <a href="https://github.com/nanzim2/Snake-game-py">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=Snake-game-py&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff" />
-  </a>
-</p>
+<a href="https://github.com/nanzim2/Snake-game-py">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=nanzim2&repo=Snake-game-py&theme=tokyonight" />
+</a>
 
 
 ---
