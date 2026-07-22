@@ -29,15 +29,25 @@
 ###
 ---
 
-## 💼 Portfólio em construção
+## 💼 Projetos em Destaque
 
-<a href="https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=nanzim2&repo=LandingPage_pizzaria_Donnapizza&theme=tokyonight" />
-</a>
+### 🍕 DonnaPizza Landing Page
+Landing Page moderna para uma pizzaria fictícia, desenvolvida com foco em responsividade e experiência do usuário.
 
-<a href="https://github.com/nanzim2/Snake-game-py">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=nanzim2&repo=Snake-game-py&theme=tokyonight" />
-</a>
+**Tecnologias:** HTML • CSS • JavaScript
+
+🔗 **Repositório:**  
+https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza
+
+---
+
+### 🐍 Snake Game
+Implementação do clássico jogo da cobrinha utilizando Python e Pygame, explorando conceitos de lógica de programação e programação orientada a objetos.
+
+**Tecnologias:** Python • Pygame
+
+🔗 **Repositório:**  
+https://github.com/nanzim2/Snake-game-py
 
 
 ---
